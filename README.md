@@ -1,4 +1,4 @@
-# FIB-UPC-LP-python-16S
+# FIB-UPC-LP-python-16
 
 Python project for the course of LP at the FIB, UPC. June of 2016
 
