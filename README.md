@@ -11,4 +11,4 @@ The project consisted on:
   - Conjunction (AND) queries are formated as a tuple
 - The results must be presented in the form of a table in an `html` file, with all the information extracted on any restaurant that matches the query, as well as the Bicing stations under 1km of distance, ordered from closest to farthest, with empty bike parking lots, and also the Bicing stations with available bikes
 
-Extracting the restaurants' data is done in the [`rdf2csv.py`](../blob/master/rdf2csv.py) file. Reading the Bicing server, taking the information from the `csv` file, and putting everything in the form of a (rather ugly, I admit) table in an `html` file is done in the [`csv2html.py`](../blob/master/csv2html.py) file.
+Extracting the restaurants' data is done in the [`rdf2csv.py`](../master/rdf2csv.py) file. Reading the Bicing server, taking the information from the `csv` file, and putting everything in the form of a (rather ugly, I admit) table in an `html` file is done in the [`csv2html.py`](../master/csv2html.py) file.
