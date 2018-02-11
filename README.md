@@ -1,6 +1,6 @@
 # FIB-UPC-LP-python-16S
 
-Python project for the course of LP at the FIB, UPC. Spring semester of 2016
+Python project for the course of LP at the FIB, UPC. June of 2016
 
 The project consisted on:
 
